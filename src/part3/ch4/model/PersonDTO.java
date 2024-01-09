@@ -18,6 +18,15 @@ public class PersonDTO {
         this.phone = phone;
     }
 
+    @Override
+    public String toString() {
+        return "PersonDTO{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", phone='" + phone + '\'' +
+                '}';
+    }
+
     public String getName() {
         return name;
     }
