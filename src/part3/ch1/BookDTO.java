@@ -1,4 +1,4 @@
-package part3; // package 선언문
+package part3.ch1; // package 선언문
 
 public class BookDTO {
     public String title;

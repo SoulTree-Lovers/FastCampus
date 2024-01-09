@@ -1,4 +1,4 @@
-package part3;
+package part3.ch1;
 
 // object: 상태정보(멤버변수) + 행위정보(멤버메소드)
 
