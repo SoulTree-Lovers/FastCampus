@@ -9,7 +9,12 @@ public class ObjectArray {
 
     // 배열 생성하기
     public ObjectArray() {
-        this.array = new Object[DEFAULT_CAPACITY];
+//        this.array = new Object[DEFAULT_CAPACITY];
+        this(DEFAULT_CAPACITY); // this(): 생성자 안에서 다른 생성자를 호출
+    }
+
+    public ObjectArray(int capacity) {
+        this.array = new Object[capacity]; // 원하는 크기의 초기 배열 생성
     }
 
     // 값 저장하기
