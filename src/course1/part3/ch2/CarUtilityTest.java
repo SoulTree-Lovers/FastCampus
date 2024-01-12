@@ -1,7 +1,7 @@
-package part3.ch2;
+package course1.part3.ch2;
 
-import part3.ch2.model.CarDTO;
-import part3.ch2.model.CarUtility;
+import course1.part3.ch2.model.CarDTO;
+import course1.part3.ch2.model.CarUtility;
 
 public class CarUtilityTest {
     public static void main(String[] args) {

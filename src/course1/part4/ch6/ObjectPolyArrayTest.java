@@ -1,7 +1,7 @@
-package part4.ch6;
+package course1.part4.ch6;
 
-import part4.ch6.model.A;
-import part4.ch6.model.B;
+import course1.part4.ch6.model.A;
+import course1.part4.ch6.model.B;
 
 public class ObjectPolyArrayTest {
     public static void main(String[] args) {

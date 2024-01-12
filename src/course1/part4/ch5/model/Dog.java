@@ -1,4 +1,4 @@
-package part4.ch5.model;
+package course1.part4.ch5.model;
 
 public class Dog extends Animal {
     @Override

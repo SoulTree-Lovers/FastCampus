@@ -1,8 +1,8 @@
-package part4.ch3;
+package course1.part4.ch3;
 
-import part4.ch2.model.Animal;
-import part4.ch2.model.Cat;
-import part4.ch2.model.Dog;
+import course1.part4.ch2.model.Animal;
+import course1.part4.ch2.model.Cat;
+import course1.part4.ch2.model.Dog;
 
 public class ObjectCasting {
     public static void main(String[] args) {

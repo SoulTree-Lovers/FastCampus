@@ -1,8 +1,8 @@
-package part4.ch5;
+package course1.part4.ch5;
 
-import part4.ch5.model.Radio;
-import part4.ch5.model.RemoCon;
-import part4.ch5.model.TV;
+import course1.part4.ch5.model.Radio;
+import course1.part4.ch5.model.RemoCon;
+import course1.part4.ch5.model.TV;
 
 public class InterfaceTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package part3.ch4.model;
+package course1.part3.ch4.model;
 
 public class MovieDTO {
     private String title;

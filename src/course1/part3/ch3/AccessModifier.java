@@ -1,6 +1,6 @@
-package part3.ch3;
+package course1.part3.ch3;
 
-import part3.ch3.model.MemberDTO;
+import course1.part3.ch3.model.MemberDTO;
 
 public class AccessModifier {
     public static void main(String[] args) {

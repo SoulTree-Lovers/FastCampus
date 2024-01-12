@@ -1,6 +1,6 @@
-package part3.ch3;
+package course1.part3.ch3;
 
-import part3.ch1.Person;
+import course1.part3.ch1.Person;
 
 public class PersonAccessTest {
     public static void main(String[] args) {

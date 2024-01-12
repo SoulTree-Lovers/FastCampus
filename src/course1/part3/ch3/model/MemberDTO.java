@@ -1,4 +1,4 @@
-package part3.ch3.model;
+package course1.part3.ch3.model;
 
 public class MemberDTO {
     public String name;

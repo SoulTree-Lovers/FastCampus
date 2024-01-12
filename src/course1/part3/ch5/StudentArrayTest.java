@@ -1,7 +1,6 @@
-package part3.ch5;
+package course1.part3.ch5;
 
-import java.util.ArrayList;
-import part3.ch5.model.Student;
+import course1.part3.ch5.model.Student;
 
 public class StudentArrayTest {
     public static void main(String[] args) {

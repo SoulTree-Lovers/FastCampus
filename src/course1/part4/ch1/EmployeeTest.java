@@ -1,6 +1,6 @@
-package part4.ch1;
+package course1.part4.ch1;
 
-import part4.ch1.model.RempDTO;
+import course1.part4.ch1.model.RempDTO;
 
 public class EmployeeTest {
     public static void main(String[] args) {

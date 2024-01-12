@@ -1,4 +1,4 @@
-package part3.ch2.model;
+package course1.part3.ch2.model;
 
 public class CarUtility {
     public void carInfoPrint(CarDTO car) {

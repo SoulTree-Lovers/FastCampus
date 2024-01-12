@@ -1,6 +1,6 @@
-package part3.ch6;
+package course1.part3.ch6;
 
-import part3.ch5.model.Student;
+import course1.part3.ch5.model.Student;
 
 public class ClassObjectInstance {
     public static void main(String[] args) {

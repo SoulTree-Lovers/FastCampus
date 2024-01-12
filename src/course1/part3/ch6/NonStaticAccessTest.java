@@ -1,6 +1,6 @@
-package part3.ch6;
+package course1.part3.ch6;
 
-import part3.ch6.model.MyUtil;
+import course1.part3.ch6.model.MyUtil;
 
 public class NonStaticAccessTest {
     public static void main(String[] args) {

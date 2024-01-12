@@ -1,8 +1,8 @@
-package part3.ch2;
+package course1.part3.ch2;
 
 import java.util.Scanner;
-import part3.ch2.model.CarDAO;
-import part3.ch2.model.CarDTO;
+import course1.part3.ch2.model.CarDAO;
+import course1.part3.ch2.model.CarDTO;
 
 public class CarInsertTest {
     public static void main(String[] args) {

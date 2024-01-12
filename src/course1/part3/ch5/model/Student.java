@@ -1,4 +1,4 @@
-package part3.ch5.model;
+package course1.part3.ch5.model;
 
 public class Student {
     private String name;

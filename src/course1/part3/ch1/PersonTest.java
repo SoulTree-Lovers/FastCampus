@@ -1,4 +1,4 @@
-package part3.ch1;
+package course1.part3.ch1;
 
 public class PersonTest {
     public static void main(String[] args) {

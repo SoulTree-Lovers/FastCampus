@@ -1,4 +1,4 @@
-package part3.ch6;
+package course1.part3.ch6;
 
 public class StaticTest {
     public static void main(String[] args) {

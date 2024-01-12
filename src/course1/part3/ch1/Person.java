@@ -1,4 +1,4 @@
-package part3.ch1;
+package course1.part3.ch1;
 
 // object: 상태정보(멤버변수) + 행위정보(멤버메소드)
 

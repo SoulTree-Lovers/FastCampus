@@ -1,8 +1,8 @@
-package part4.ch5;
+package course1.part4.ch5;
 
-import part4.ch5.model.Animal;
-import part4.ch5.model.Cat;
-import part4.ch5.model.Dog;
+import course1.part4.ch5.model.Animal;
+import course1.part4.ch5.model.Cat;
+import course1.part4.ch5.model.Dog;
 
 public class AbstractClassTest {
     public static void main(String[] args) {

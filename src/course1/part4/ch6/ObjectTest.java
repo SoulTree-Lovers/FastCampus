@@ -1,6 +1,6 @@
-package part4.ch6;
+package course1.part4.ch6;
 
-import part4.ch6.model.A;
+import course1.part4.ch6.model.A;
 
 public class ObjectTest {
     public static void main(String[] args) {

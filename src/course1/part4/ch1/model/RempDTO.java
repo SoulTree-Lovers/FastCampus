@@ -1,4 +1,4 @@
-package part4.ch1.model;
+package course1.part4.ch1.model;
 
 public class RempDTO extends Employee {
     public RempDTO() {

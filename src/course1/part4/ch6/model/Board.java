@@ -1,4 +1,4 @@
-package part4.ch6.model;
+package course1.part4.ch6.model;
 
 public class Board {
     private String title;
