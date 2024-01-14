@@ -4,7 +4,7 @@ import course2.part1.ch2.model.Book;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ArrayListGeneric {
+public class ArrayListGenericTest {
     public static void main(String[] args) {
         List<Book> list = new ArrayList<>();
 
